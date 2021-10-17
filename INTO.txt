@@ -16,6 +16,15 @@ tsc hello-world.ts
 
 
 
+tsc --init
+
+tsc 
+
+node 018_immediately_invoked_functions
+
+
+
+
 
 
 
