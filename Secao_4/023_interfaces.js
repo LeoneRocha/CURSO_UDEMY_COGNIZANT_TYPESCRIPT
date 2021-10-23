@@ -1,9 +1,9 @@
 "use strict";
 function profile1(user) {
-    return "Welcome 1, " + user.firstName + "  " + user.lastName + "  ";
+    return `Welcome 1, ${user.firstName}  ${user.lastName}  `;
 }
 function profile2(user) {
-    return "Welcome 2, " + user.email;
+    return `Welcome 2, ${user.email}`;
 }
 var realUser1 = {
     email: 'test@test.com',

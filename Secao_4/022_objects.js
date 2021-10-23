@@ -3,7 +3,7 @@ var realUser = {
     email: 'test@test.com',
     firstName: 'Jordan',
     lastName: 'Hudgens',
-    sayHi: function () {
+    sayHi() {
         return "Hey there!";
     }
 };

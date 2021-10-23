@@ -23,6 +23,13 @@ tsc
 node 018_immediately_invoked_functions
 
 
+https://stackoverflow.com/questions/27573365/how-to-use-typescript-with-native-es6-promises
+
+npm install --save @types/es6-promise
+
+typings install --global es6-promise
+
+
 
 
 

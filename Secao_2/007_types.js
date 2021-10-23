@@ -1,15 +1,15 @@
 "use strict";
 // Boolean
-var paidAccount = false;
+let paidAccount = false;
 // Number
-var age = 33;
+let age = 33;
 var taxRate = 7.5;
 // String
 var fullName = "Jordan Hudgens";
 // Array
 var ages = [33, 28, 11];
 // Tuple
-var player;
+let player;
 player = [3, 'Corerra', .333, 33];
 // Enum
 var ApprovalStatus;
@@ -19,7 +19,7 @@ var ApprovalStatus;
     ApprovalStatus[ApprovalStatus["Rejected"] = 2] = "Rejected";
 })(ApprovalStatus || (ApprovalStatus = {}));
 ;
-var job = ApprovalStatus.Pending;
+let job = ApprovalStatus.Pending;
 // Any
 var apiData = [123, 'Jordan', false];
 // Void
