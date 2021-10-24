@@ -32,6 +32,16 @@ typings install --global es6-promise
 
 https://www.npmjs.com/package/devcamp-js-builder
 
+js-generate  (PASSO 1)
+
+
+TypeScriptReactDemo
+
+
+cd TypeScriptReactDemo  
+
+
+npm install (PASSO 2)
 
 
 
@@ -40,22 +50,7 @@ https://www.npmjs.com/package/devcamp-js-builder
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---------------------- RASCUNHOS
 
 
 ←[90m    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)←[39m
@@ -84,3 +79,45 @@ Set-ExecutionPolicy -ExecutionPolicy AllSigned
 Set-ExecutionPolicy -ExecutionPolicy Unrestricted
 
 Set-ExecutionPolicy Unrestricted
+
+
+
+
+
+
+
+npm run start
+
+npm webpack visual-studio-code webpack-dev-server
+
+npm install -g webpack-dev-server
+
+npm install -D webpack-cli
+npm install -g webpack-cli
+
+npm install --save-dev webpack
+
+npm install -g webpack-dev-server
+
+
+npm run build
+
+
+Solução Webpack:
+
+Fechar solução VS relacionada
+Excluir node_modulespasta
+Excluído package-lock.json
+npm install
+npm rebuild
+
+
+npm cache clean --force
+npm install -g webpack
+
+npm i -D cross-env
+
+https://stackoverflow.com/questions/31611527/webpack-webpack-dev-server-command-not-found
+
+
+
